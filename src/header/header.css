@@ -1,0 +1,31 @@
+.hed_main{
+    height: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 2px solid #476a2e;
+    box-shadow: 5px 15px 10px -10px #476a2e;
+    background-color: white;
+  
+}
+.hed{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+.hed h2{
+    cursor: pointer;
+   
+}
+.links{
+    display: flex; 
+    align-items: center;
+    
+}
+.links h3{
+    margin: 25px;
+}
+
+.links h3:hover{
+    cursor: pointer;
+    
+}

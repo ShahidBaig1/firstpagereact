@@ -1,0 +1,14 @@
+.lop{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.heading{
+    font-size: 3rem;
+    text-transform: capitalize;    
+    text-align: center;
+    margin-bottom: 2.5rem;
+    margin-top: 3rem;
+    color: #476a2e;
+}

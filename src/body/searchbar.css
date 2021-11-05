@@ -1,0 +1,31 @@
+
+.search_cont{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 25px;
+    width: 100vh;
+    box-shadow: 3px 8px #888888;
+    border-radius:10px;
+}
+.inner{
+    
+    width: 500px;
+}
+.inner input{
+    width: 95%;
+    border: transparent;
+    background: #f1f5f8;
+    border-radius: 10px;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+}
+.inner p{
+    display: block;
+    margin-bottom: 1.25rem;
+    font-weight: 700;
+    letter-spacing: .25rem;
+    color: #476a2e;
+}
